@@ -25,7 +25,7 @@
    - [面试技巧](https://hongxiac.com/docs/job-hunting/interview-skills.html)
    
 👉[葵花宝典](/docs/software-engineering/part1)：梳理了完整的学习笔记，包括MySQL、Redis、Linux、软件工程等内容
-   - [MySQL](https://hongxiac.com/docs/mysql/summarize.html)
+   - [MySQL](https://hongxiac.com/docs/mysql/sql.html)
    - [Redis](https://hongxiac.com/docs/redis/introduction.html)
    - [SpringMVC](https://hongxiac.com/docs/java/springmvc/part1.html)
    - [MyBatis](https://hongxiac.com/docs/java/mybatis/part1.html)
