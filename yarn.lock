@@ -5034,6 +5034,11 @@
     "@vue/server-renderer" "3.3.4"
     "@vue/shared" "3.3.4"
 
+"vuepress-plugin-dynamic-title@^1.0.0":
+  "integrity" "sha512-CN1wtkPNG3shGzEFgqOa2dzojSle7SeAaf+Cw77Xmkv8jvB3wO5r2zXkIHTjiclQY1c5q5lE8h2A9vQaLdor2Q=="
+  "resolved" "https://registry.npmmirror.com/vuepress-plugin-dynamic-title/-/vuepress-plugin-dynamic-title-1.0.0.tgz"
+  "version" "1.0.0"
+
 "vuepress-theme-reco@2.0.0-beta.67":
   "integrity" "sha512-bdwdz04eGfVp+2lR58ypxZ2OxitoN/P8J0Rnw1QhiwIN/itSLWViDIbXCBExiAT+bLCLaQVk80Zs0nz7RbEZeg=="
   "resolved" "https://registry.npmmirror.com/vuepress-theme-reco/-/vuepress-theme-reco-2.0.0-beta.67.tgz"

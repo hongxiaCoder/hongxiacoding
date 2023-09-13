@@ -1,7 +1,7 @@
 {
-  "name": "-theme-reco-demo",
+  "name": "宏夏Coding",
   "version": "2.0.0",
-  "description": "Demo for vuepress-theme-reco@2.x.",
+  "description": "Committed to providing programming learners with the content they need to eliminate poor information!",
   "repository": "git@github.com:recoluan/vuepress-theme-reco-demo.git",
   "author": "reco_luan <recoluan@outlook.com>",
   "license": "MIT",
@@ -13,5 +13,8 @@
   "dependencies": {
     "vuepress": "2.0.0-beta.66",
     "vuepress-theme-reco": "2.0.0-beta.67"
+  },
+  "devDependencies": {
+    "vuepress-plugin-dynamic-title": "^1.0.0"
   }
 }

@@ -76,10 +76,6 @@ git merge [branch-name] 在当前分支合并branch-name分支
 
 
 
-
-
-## IDEA中使用Git
-
 ## 理论知识
 
 > 版本库：.git隐藏文件夹就是版本库，存储了很多配置信息、日志信息和文件版本信息等，不要改动

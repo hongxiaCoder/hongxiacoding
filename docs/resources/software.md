@@ -44,7 +44,7 @@ Java 运行状态可视化工具（https://visualvm.github.io/）
 
 SSH 连接软件（https://ww.netsarang.com/zh/xshell/）
 
-![image-20230901163407319](C:/Users/Doom/AppData/Roaming/Typora/typora-user-images/image-20230901163407319.png)
+![](https://cdn.jsdelivr.net/gh/hongxiaCoder/Pictures@master/20230906165608.png)
 
 ### XFtp
 
@@ -56,7 +56,7 @@ FTP 连接软件（https://www.netsarang.com/zh/xftp/）
 
 Redis 可视化管理工具（https://github.com/uglide/RedisDesktopManager）
 
-![img](https://img2018.cnblogs.com/blog/1775992/201909/1775992-20190906102158372-1275713632.png)
+![](https://cdn.jsdelivr.net/gh/hongxiaCoder/Pictures@master/20230906165705.png)
 
 ### Postman
 
